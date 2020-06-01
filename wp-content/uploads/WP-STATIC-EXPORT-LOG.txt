@@ -1,0 +1,142 @@
+2020-06-01 02:57:49
+PHP VERSION 7.2.18
+OS VERSION Windows NT M-SHAHID 6.2 build 9200 (Windows 8 Professional Edition) i586
+WP VERSION 5.4.1
+WP URL http://localhost/wptesting
+WP SITEURL http://localhost/wptesting
+WP HOME http://localhost/wptesting
+WP ADDRESS http://localhost/wptesting
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://shahidandassociates.github.io/WPtesting/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.39 (Win32) PHP/7.2.18
+Active plugins:
+simply-static/simply-static.php
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: https://shahidandassociates.github.io/WPtesting/
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: https://shahidandassociates.github.io/WPtesting/
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 0
+crawl_increment: 1
+crawlPort: 
+debug_mode: 1
+detection_level: everything
+delayBetweenAPICalls: 0
+deployBatchSize: 999999
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: gh-pages
+ghCommitMessage: WP2STATIC%ACTION% and %FILENAME%
+ghPath: 
+ghRepo: Shahidandassociates/WPtesting
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: github
+targetFolder: C:\wamp\www\WPtesting/mystaticsite
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+com_dotnet
+fileinfo
+gd
+gettext
+gmp
+intl
+imap
+ldap
+mbstring
+exif
+mysqli
+Phar
+pdo_mysql
+pdo_sqlite
+soap
+sockets
+sqlite3
+xmlrpc
+xsl
+Zend OPcache
+xdebug
+Exclusion rules wp-json
+Crawling /
